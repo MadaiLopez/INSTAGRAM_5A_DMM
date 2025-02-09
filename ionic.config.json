@@ -1,0 +1,7 @@
+{
+  "name": "Instagram_Tarea",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
